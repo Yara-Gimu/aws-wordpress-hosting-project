@@ -11,7 +11,7 @@ This project demonstrates the process of building and deploying a dynamic web ap
 
 The infrastructure was designed within a Virtual Private Cloud (VPC) to ensure network isolation. The EC2 web server is placed in a public subnet to receive traffic from the internet, while the RDS database is in a private subnet, inaccessible from the public internet and only reachable by the EC2 instance, maximizing security.
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](architecture.jpg)
 
 ---
 
