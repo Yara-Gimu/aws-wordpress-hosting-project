@@ -32,6 +32,12 @@ The infrastructure was designed within a Virtual Private Cloud (VPC) to ensure n
     * **Role:** Acted as a stateful virtual firewall to control inbound and outbound traffic for the EC2 instance and RDS database.
     * **Web-Server-SG:** Configured to allow inbound `HTTP` traffic (port 80) from `Anywhere (0.0.0.0/0)` and `SSH` traffic (port 22) from my personal IP for secure management.
     * **RDS-SG:** Configured to allow inbound `MySQL` traffic (port 3306) **only** from the `Web-Server-SG`, effectively isolating the database from the public internet.
+    * 
+![ 1](1.jpg)
+![ 2](2.jpg)
+![ 3](3.jpg)
+![ 4](4.jpg)
+![ 5](5.jpg)
 
 ---
 
