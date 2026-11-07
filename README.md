@@ -63,6 +63,4 @@ During this project, I encountered several real-world technical challenges and s
 
 ### 📸 Project Screenshot
 
-*If you have a screenshot, leave this section. If not, you can delete it.*
-
 ![My WordPress Site](wordpress-screenshot.png)
